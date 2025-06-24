@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Blog Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Panel Admin</h1>
+        <nav>
+            <a href="index.html">Kembali ke Blog</a>
+        </nav>
+    </header>
+
+    <main>
+        <form id="post-form">
+            <h2>Buat Postingan Baru</h2>
+            <div>
+                <label for="title">Judul:</label>
+                <input type="text" id="title" required>
+            </div>
+            <div>
+                <label for="content">Isi (Markdown):</label>
+                <textarea id="content" rows="10" required></textarea>
+                <small>Gunakan sintaks Markdown untuk formatting</small>
+            </div>
+            <button type="submit">Simpan</button>
+        </form>
+
+        <div id="saved-posts">
+            <h3>Postingan Tersimpan</h3>
+            <div id="posts-list-admin">
+                <!-- Daftar postingan akan dimuat di sini -->
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
