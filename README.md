@@ -129,5 +129,6 @@ Anda dapat mencoba langsung melalui GitHub Pages:
 ---
 ## ☕ Buy me a Coffee  
 Jika project ini membantumu, pertimbangkan untuk membelikan segelas kopi 😁
-[![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](ko-fi.com/leowahatta)
+
+[![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ko-fi.com/leowahatta)
 Terima kasih atas supportnya! 🙏  
