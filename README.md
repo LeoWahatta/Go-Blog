@@ -124,7 +124,7 @@ Sebuah **blog statis** yang menyimpan postingan dalam format **Markdown** dan be
 ---
 ## 🔗 **Link Percobaan Live Demo**
 Anda dapat mencoba langsung melalui GitHub Pages:
-👉 https://leowahata.github.io/Go-Blog/
+👉 https://leowahatta.github.io/Go-Blog/
 
 ---
 ## ☕ Buy me a Coffee  
